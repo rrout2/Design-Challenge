@@ -1,0 +1,48 @@
+body {
+    background-color: #EAEAEA;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #006992;
+}
+
+h1 {
+    font-size: 50px;
+    color: #FF7F11;
+}
+
+
+.year {
+    font-size: 35px;
+    color: #449DD1;
+}
+
+.keyword {
+    font-weight: bold;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("siebel.jpg");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url("illinois.png");
+
+    /* Set a specific height */
+    min-height: 550px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
