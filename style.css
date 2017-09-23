@@ -1,18 +1,21 @@
 body {
-    background-color: #EAEAEA;
+    /* background-color: #EAEAEA; */
+    background: radial-gradient( lightcyan,lightgoldenrodyellow);
+    
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     color: #006992;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 57px;
     color: #FF7F11;
 }
 
 
 .year {
-    font-size: 35px;
+    font-size: 40px;
     color: #449DD1;
+    font-style: italic;
 }
 
 .keyword {
